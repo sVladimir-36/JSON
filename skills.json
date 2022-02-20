@@ -1,0 +1,58 @@
+{
+	"skills": 
+		[
+			{"basic_theory":
+					["what is testing",
+					"bag repors",
+					"documentation",
+					"testing types",
+					"testing methods",
+					"testing directions",
+					"SDLC",
+					"STLC",
+					"client-server architecture"
+					]
+			},
+			{"HTTP": 
+					["request methods",
+					"response codes",
+					"HTTP request and response structure"
+					]
+			},
+			{"JSON": "structure"},
+			{"XML": "structure"},
+			{"API testing": 
+					["Postman",
+					"JS",
+					"API autotests"
+					]
+			},
+			{"Logs":         ["removing, reading"]},
+			{"Sniffers":     ["Fiddler, Charles"]},
+			{"DevTools":     ["Google Chrome, Firefox"]},
+			{"VPN":          ["what for",
+				         "how to use",
+				         "instruments"
+				        ]
+			},
+			{"Mobile testing":
+					["iOs",
+					"Android",
+					"guidelines",
+					"xCode",
+					"Androidstudio",
+					"ADB",
+					"setting VPN and Proxy on mobile devices",
+					"mobile traffic sniffing"
+					]
+			},
+			{"Linux terminal": ["copying, creating, moving, view"]},
+			{"SQL":["Create, Delete, Drop, Inser Into, Select, Join, From, Where"]},
+			{"Postgres": ["installation, using, setting"]},
+			{"Redis": ["installation, using, setting"]},
+			{"JMeter":"using"},
+			{"Python": ["basics, application creation"]}
+			
+		]
+}
+
